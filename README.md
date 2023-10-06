@@ -9,6 +9,7 @@
     </h1>
 </div>
 :crocodile: My name is Danil, and I'm computer computer science student.
+
 :zap: I have C++ language skills and teach Html/CSS/JS.
 
 ### :hammer_and_wrench: Languages and Tools :
