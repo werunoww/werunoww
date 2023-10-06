@@ -2,7 +2,7 @@
     <img src = "https://media.giphy.com/media/SYHz66JfYHbBtZXjHy/giphy.gif"width="200"/>
     <h1>
       hey there
-      <img src="https://media.giphy.com/media/dZCGUOirHnh49N03TF/giphy.gif" width="30px"/>
+      <img src="https://w7.pngwing.com/pngs/240/998/png-transparent-emojipedia-wave-hand-waving-greeting-emoji-hand-sticker-thumb-signal.png" width="30px"/>
     </h1>
 </div>        
 
