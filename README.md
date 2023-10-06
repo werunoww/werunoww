@@ -3,7 +3,7 @@
     <h1>
       hey there
         <a href="https://vk.com/danisssimooo">
-            <img src="https://img.favpng.com/18/10/17/vk-computer-icons-social-networking-service-social-media-png-favpng-RWnCrLtBLEuRbPLfPXeQiZDCK.jpg" alt="VK"/>
+            <img src="https://media.giphy.com/media/9v9529I2n4Iw1U3KhH/giphy.gif" alt="VK"/>
         </a>
     </h1>
 </div>        
