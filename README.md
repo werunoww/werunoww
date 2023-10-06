@@ -5,7 +5,7 @@
 <div id="header__text">
     <h1 align = "center"> 
         hey there
-        <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+        <img src="https://media.giphy.com/media/dZCGUOirHnh49N03TF/giphy.gif" width="30px"/>
     </h1>
 </div>
 :crocodile: My name is Danil, and I'm computer science student.
@@ -19,6 +19,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" width="40" height="40"/>&nbsp;
+    
 </div>
 
 ### :fire: My Stats :
