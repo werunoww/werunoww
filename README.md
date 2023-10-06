@@ -21,4 +21,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" width="40" height="40"/>&nbsp;
 </div>
 
+### :fire: My Stats :
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=werunoww)](https://github.com/anuraghazra/github-readme-stats)
+
 
