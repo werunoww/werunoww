@@ -2,6 +2,9 @@
     <img src = "https://media.giphy.com/media/SYHz66JfYHbBtZXjHy/giphy.gif"width="200"/>
     <h1>
       hey there
+      <a href="[hey there](https://vk.com/danisssimooo)">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
     </h1>
 </div>        
 
