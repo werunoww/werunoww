@@ -1,14 +1,12 @@
 <div id="header" align=center>
     <img src = "https://media.giphy.com/media/SYHz66JfYHbBtZXjHy/giphy.gif"width="200"/>
     <h1>
-      hey there
-        <a href="https://vk.com/danisssimooo">
-            <img src="https://media.giphy.com/media/9v9529I2n4Iw1U3KhH/giphy.gif" alt="VK" width="70"/>
-        </a>
+      hey there 
     </h1>
 </div>        
 
-:crocodile: My name is Danil, and I'm computer science student.
+:crocodile: My name is <a href="https://vk.com/danisssimooo">Danil</a>, and I'm computer science student.
+
 
 :zap: I have C++ language skills and teach HTML/CSS/JS.
 
